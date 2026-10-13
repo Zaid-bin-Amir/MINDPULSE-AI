@@ -37,7 +37,7 @@ mindpulse-ai/
 ## Installation
 
 ```bash
-git clone https://github.com/Mohsin801/mindpulse-ai.git
+git clone https://github.com/Zaid-bin-Amir/MINDPULSE-AI.git
 cd mindpulse-ai
 pip install -r requirements.txt
 ```
